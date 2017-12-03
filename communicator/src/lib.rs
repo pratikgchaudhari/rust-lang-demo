@@ -1,9 +1,15 @@
+mod client {
+    fn connect(){
+
+    }
+}
+
 mod network{
     fn connect(){
 
     }
 
-    mod client {
+    mod server {
         fn connect(){
 
         }
