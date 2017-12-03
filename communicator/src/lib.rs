@@ -1,16 +1,5 @@
 mod client;
-
-mod network{
-    fn connect(){
-
-    }
-
-    mod server {
-        fn connect(){
-
-        }
-    }
-}
+mod network;
 
 
 #[cfg(test)]
